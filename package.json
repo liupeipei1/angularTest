@@ -1,0 +1,19 @@
+{
+  "name": "lpp_angular_demo",
+  "version": "1.0.0",
+  "description": "用于本地测试前端",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liupeipei1/angularTest.git"
+  },
+  "author": "liupeipei",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/liupeipei1/angularTest/issues"
+  },
+  "homepage": "https://github.com/liupeipei1/angularTest#readme"
+}
